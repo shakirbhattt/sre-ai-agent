@@ -1,2 +1,8 @@
-__pycache__
-venv_
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+.env
