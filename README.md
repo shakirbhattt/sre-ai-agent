@@ -52,6 +52,7 @@ Clone the repository:
 
 
 git clone https://github.com/your-username/sre-ai-agent.git
+
 cd sre-ai-agent
 
 ---
@@ -60,7 +61,7 @@ cd sre-ai-agent
 
 python sre_ai_agent.py
 
-📊 Example Output
+Example Output
 
 📊 Metrics Collected:
 - latency_p95: 1.8s
