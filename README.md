@@ -56,7 +56,7 @@ cd sre-ai-agent
 
 ---
 
-Run the SRE AI Agent:
+## 🏃 Run the SRE AI Agent:
 
 python sre_ai_agent.py
 
