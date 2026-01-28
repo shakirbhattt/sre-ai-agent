@@ -1,4 +1,4 @@
-# 🤖 SRE AI Agent (Beginner Friendly – Single File Project)
+# 🤖 SRE AI Agent
 
 This project is a **simple SRE AI Agent** designed for beginners to understand **Site Reliability Engineering (SRE)**, **incident detection**, and **AIOps fundamentals**.
 
@@ -32,6 +32,8 @@ This project focuses on **thinking like an SRE**, not complex tooling.
 
 Metrics → Incident Detection → Decision Logic → Human-Readable Output
 
+---
+
 ## ⚙️ Prerequisites
 
 - Python 3.8 or higher
@@ -39,19 +41,27 @@ Metrics → Incident Detection → Decision Logic → Human-Readable Output
 - Git (optional)
 
 Check Python version:
-```bash
+
+''''bash
 python3 --version
 
-**## 🚀 How to Run
+---
 
-- Clone the repository:
+## 🚀 How to Run
+
+Clone the repository:
+
+''''bash
 git clone https://github.com/your-username/sre-ai-agent.git
 cd sre-ai-agent
 
-- Run the agent:
+---
+
+Run the SRE AI Agent:
+
 python sre_ai_agent.py
 
-**## Example Output
+📊 Example Output
 
 📊 Metrics Collected:
 - latency_p95: 1.8s
@@ -67,4 +77,3 @@ Suggested Actions:
 - Rollback last deployment
 - Check downstream dependencies
 - Scale service temporarily
-
