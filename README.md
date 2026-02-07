@@ -51,7 +51,7 @@ python3 --version
 Clone the repository:
 
 
-git clone https://github.com/your-username/sre-ai-agent.git
+git clone git@github.com:shakirbhattt/sre-ai-agent.git
 
 cd sre-ai-agent
 
